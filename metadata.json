@@ -1,0 +1,6 @@
+{
+  "name": "Discount & Stock Tracker",
+  "description": "Track live product prices, discounts, and stock availability from any product URL using Google Search grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
